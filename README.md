@@ -8,7 +8,7 @@ This project processes CityGML 1.0 files (Level of Detail 2) to extract building
 -Building attribute parsing and CSV export
 -Mapillary street-view image integration
 
-##Installation & Setup
+## Installation & Setup
 1. Download & unzip the files
 2. Create virtual environment
    ```bash
