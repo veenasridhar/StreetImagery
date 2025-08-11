@@ -11,10 +11,12 @@ This project processes CityGML 1.0 files (Level of Detail 2) to extract building
 ##Installation & Setup
 1. Download & unzip the files
 2. Create virtual environment
-    '''python -m venv citygml_env
-        citygml_env\Scripts\activate'''
+   ```bash
+   python -m venv citygml_env
+   citygml_env\Scripts\activate   # On Windows
 3. Install Dependencies
-    '''pip install -r requirements.txt'''
+    ``` bash
+    pip install -r requirements.txt
 4. Run the Noteboook
     Make sure the file 690_5334.gml is in the same directory as the notebook file.
 5. Expected Outputs
